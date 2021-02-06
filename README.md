@@ -4,5 +4,5 @@
 준비중입니다.
 
 ## 입력 가이드
-[홍보지 입력 가이드](docs/paste.md)
+[홍보지 입력 가이드](docs/paste.md)<br>
 [이미지 입력 가이드](docs/img.md)
